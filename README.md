@@ -1,8 +1,6 @@
 # mySimpleVEM
 
-
-
-![abstract.png](C:\Users\io\repo\mySimpleVEM\imgs\abstract.png)
+![Testo alternativo](imgs/abstract.png)
 
  This MATLAB project is designed to perform 2D structural analysis using both the Finite Element Method (FEM) and the Virtual Element Method (VEM) using both structural and voronoi meshes.
 
