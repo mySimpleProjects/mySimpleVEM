@@ -1,5 +1,9 @@
 # mySimpleVEM
 
+
+
+![abstract.png](C:\Users\io\repo\mySimpleVEM\imgs\abstract.png)
+
  This MATLAB project is designed to perform 2D structural analysis using both the Finite Element Method (FEM) and the Virtual Element Method (VEM) using both structural and voronoi meshes.
 
 ## Project Overview
@@ -71,6 +75,4 @@ The simulation script carries out the following main tasks:
   The script uses the `normalBC` function to set up boundary conditions. To adapt the simulation to different loading or support conditions, update this function or replace it with a custom implementation.
 
 - **Material Properties:**  
-  The material properties are defined via the `linearElastic2D_Steel` function. Change or extend this function to simulate other materials.
-
-## 
+  The material properties are defined via the `linearElastic2D_Steel` function. Change or extend this function to simulate other materials. 
